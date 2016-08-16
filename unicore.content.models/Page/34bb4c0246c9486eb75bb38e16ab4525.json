@@ -1,17 +1,17 @@
 {
-  "subtitle": "\u0644\u064a\u0633 \u0627\u0644\u0622\u0646 \u0641\u0642\u0637\u060c \u0648\u0644\u0643\u0646 \u062f\u0627\u0626\u0645\u0627\u064b", 
-  "description": "", 
+  "subtitle": "", 
+  "description": "\u0644\u064a\u0633 \u0627\u0644\u0622\u0646 \u0641\u0642\u0637\u060c \u0648\u0644\u0643\u0646 \u062f\u0627\u0626\u0645\u0627\u064b", 
   "language": "ara_AE", 
   "title": "\u0643\u0648\u0646\u064a \u0627\u0644\u0635\u062f\u064a\u0642\u0629 \u0627\u0644\u0645\u0641\u0636\u0644\u0629 \u0644\u0623\u0641\u0636\u0644 \u0635\u062f\u064a\u0642\u0629 \u0644\u062f\u064a\u0643 ", 
   "primary_category": "38decbb6ab52480aa02218bca0ed92f5", 
   "created_at": "2016-07-26T15:07:41+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2016-07-28T22:52:38.903354+00:00", 
+  "modified_at": "2016-08-16T11:10:41.396114+00:00", 
   "_version": {
     "package_version": "1.4.4", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
